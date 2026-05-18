@@ -26,15 +26,7 @@ python 03_matriz_inversa.py
 
 Los scripts generan un archivo `.tex` en la carpeta `salidas/`.
 
-## Como obtener el PDF
 
-Como no tenia LaTeX instalado en el pc, lo que hice fue:
-
-1. Entrar a https://www.overleaf.com (es gratis)
-2. Crear cuenta
-3. New Project -> Upload Project
-4. Subir el archivo .tex
-5. Overleaf lo compila solo y muestra el PDF
 
 ## Archivos
 
@@ -51,10 +43,3 @@ Como no tenia LaTeX instalado en el pc, lo que hice fue:
 - En el metodo de Gauss el determinante es el producto de la diagonal de la matriz triangular, pero cada vez que intercambio dos filas el signo cambia.
 - El metodo de la adjunta para la inversa funciona bien para matrices pequenas, pero si la matriz es grande es muy lento (porque calcular cada cofactor implica otro determinante).
 
-## Video
-
-[Aqui va el link del video de YouTube]
-
-## Autor
-
-Eliab - Tecnologia en Analitica de Datos - UFPS
